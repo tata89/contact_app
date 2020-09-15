@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "created_date": "1-10-2020",
+    "number": 2345678914,
+    "incoming_call_count": 2,
+    "location": "California",
+    "outgoing_call_count": 4
+  },
+  {
+    "id": 2,
+    "name": "Jason",
+    "created_date": "4-10-2020",
+    "number": 2345678915,
+    "incoming_call_count": 5,
+    "location": "San Fransico",
+    "outgoing_call_count": 1
+  },
+  {
+    "id": 3,
+    "name": "Potter",
+    "created_date": "6-7-2020",
+    "number": 1234567890,
+    "incoming_call_count": 2,
+    "location": "Bangalore",
+    "outgoing_call_count": 6
+  },
+  {
+    "id": 4,
+    "name": "Alex",
+    "created_date": "8-10-2020",
+    "number": 2345678917,
+    "incoming_call_count": 7,
+    "location": "Dubai",
+    "outgoing_call_count": 9
+  },
+  {
+    "id": 5,
+    "name": "Peter",
+    "created_date": "2-09-2020",
+    "number": 2345678918,
+    "incoming_call_count": 3,
+    "location": "London",
+    "outgoing_call_count": 4
+  },
+  {
+    "id": 6,
+    "name": "Aditya",
+    "created_date": "15-09-2020",
+    "number": "7979456765",
+    "incoming_call_count": "3",
+    "location": "Jamshedpur",
+    "outgoing_call_count": "4"
+  }
+]
